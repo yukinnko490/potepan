@@ -238,7 +238,7 @@ section{
 
 .image{
  width:100%;
- background-image: url(//camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/top-hero.jpg);
+ background-image: url(https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/top-hero.jpg);
  display: none;
 }
 
@@ -249,7 +249,7 @@ img{
 }
 @media screen and (max-width:767px){
  .first-view{
-  background-image: url(//camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/top-hero-sp.jpg.webp);
+  background-image: url(https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/top-hero-sp.jpg.webp);
   padding-top:300px;
  }
 }
@@ -260,7 +260,7 @@ img{
 }
 @media scren and (min-width:768px){
  .first-view{
-  background-image: url(//camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/top-hero.jpg);
+  background-image: url(https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/top-hero.jpg);
  background-size:cover;
  background-position: center;
  padding-top: 95px;
